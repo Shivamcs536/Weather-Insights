@@ -2,7 +2,7 @@
 
 A Streamlit web app that delivers real-time weather data and machine-learning-powered forecasts for any city in the world — current conditions, next-day rain prediction, and short-term temperature & humidity trends, complete with interactive visualizations.
 
-**🔗 Live Demo:** [your-app-name.streamlit.app](https://your-app-name.streamlit.app)
+**🔗 Live Demo:** [your-app-name.streamlit.app](https://weather-insights.streamlit.app/)
 
 ---
 
