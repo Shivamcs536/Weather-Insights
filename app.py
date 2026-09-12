@@ -44,7 +44,7 @@ elif page == "Future Temperature & Humidity":
         results = get_predictions(city)
         
         if results:
-            future_times = pd.date_range(start=pd.Timestamp.now(), periods=5, freq="H").strftime("%H:%M")
+            future_times = pd.date_range(start=pd.Timestamp.now(), periods=5, freq="h").strftime("%H:%M")
             df_pred = pd.DataFrame({
                 "Time ⏳": future_times,
                 "Temperature (°C) 🌡️": results["future_temp"],
@@ -58,7 +58,7 @@ elif page == "Graphs":
         results = get_predictions(city)
         
         if results:
-            future_times = pd.date_range(start=pd.Timestamp.now(), periods=5, freq="H").strftime("%H:%M")
+            future_times = pd.date_range(start=pd.Timestamp.now(), periods=5, freq="h").strftime("%H:%M")
             
             # Temperature Line Chart
             fig1, ax1 = plt.subplots(figsize=(5, 3))
