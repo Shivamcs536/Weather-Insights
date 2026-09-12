@@ -32,7 +32,7 @@ A Streamlit web app that delivers real-time weather data and machine-learning-po
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/yourusername/weather-insights.git
+git clone https://github.com/Shivamcs536/weather-insights.git
 cd weather-insights
 ```
 
@@ -73,6 +73,3 @@ weather-insights/
 - The rain prediction and forecasting models are trained fresh on each request using `weather.csv`, so no pre-trained model files are needed.
 - Your API key is kept out of the public repo via Streamlit's secrets management — see the setup step above.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
