@@ -28,6 +28,10 @@ A Streamlit web app that delivers real-time weather data and machine-learning-po
 3. Random Forest regression models forecast how temperature and humidity are likely to trend over the next few hours.
 4. Results are displayed as metrics, tables, and charts across four pages: Home, Current Data, Future Temperature & Humidity, and Graphs.
 
+## Working Images
+<img width="1902" height="903" alt="Screenshot 2026-09-15 100911" src="https://github.com/user-attachments/assets/cb458987-e422-4117-a3d1-0e7213467beb" />
+
+
 ## Running Locally
 
 **1. Clone the repo**
