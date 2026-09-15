@@ -31,6 +31,12 @@ A Streamlit web app that delivers real-time weather data and machine-learning-po
 ## Working Images
 <img width="1902" height="903" alt="Screenshot 2026-09-15 100911" src="https://github.com/user-attachments/assets/cb458987-e422-4117-a3d1-0e7213467beb" />
 
+<img width="1913" height="908" alt="Screenshot 2026-09-15 100929" src="https://github.com/user-attachments/assets/5d1bdcb6-cf6b-4782-87e6-4bb029faa7b8" />
+
+<img width="1907" height="906" alt="Screenshot 2026-09-15 100944" src="https://github.com/user-attachments/assets/c06b2096-9c32-4b32-b5d7-b19e8c39e69c" />
+
+<img width="1902" height="897" alt="Screenshot 2026-09-15 101009" src="https://github.com/user-attachments/assets/05d9db7e-b823-4085-a518-cdd1fc8afb1e" />
+
 
 ## Running Locally
 
